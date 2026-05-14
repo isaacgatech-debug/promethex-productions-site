@@ -24,7 +24,7 @@ This project is an independent copy and is not connected to the original Prometh
 Current remote:
 
 ```text
-https://github.com/isaacgatech-debug/https-github.com-isaacgatech-debug-Promethex-Website.git
+https://github.com/isaacgatech-debug/promethex-productions-site.git
 ```
 
 In this local IDE environment, repository metadata is stored in `.repo-git` because creating a standard `.git` directory is blocked. Use:
