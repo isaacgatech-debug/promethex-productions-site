@@ -17,6 +17,14 @@ npm run build
 
 The production build outputs to `dist/`.
 
+## Deployment
+
+Production site:
+
+```text
+https://promethex-productions-site.netlify.app
+```
+
 ## Repository
 
 This project is an independent copy and is not connected to the original Promethex repository.

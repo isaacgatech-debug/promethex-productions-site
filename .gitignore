@@ -4,3 +4,7 @@ dist
 .env.local
 .env.*.local
 .repo-git/
+
+# Local Netlify folder
+.netlify
+.netlify-home/
